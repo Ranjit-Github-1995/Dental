@@ -1,0 +1,1015 @@
+@media only screen and (min-width:2048px){
+    
+    
+}
+
+@media only screen and (min-width:1600px) and (max-width:2047px){
+    
+    
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px){
+    
+    
+}
+
+@media only screen and (min-width:1171px) and (max-width:1245px){
+    
+    
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1169px){
+    
+    /*** top header sec start ***/
+    
+    .header{
+        padding-top: 35px;
+    }
+    
+    /*** top header sec end ***/
+    
+    
+    /*** banner sec start ***/
+    
+    .banner .smile{
+        margin-right: 49px;
+    }
+    .banner .banner_pic{
+        height: 488px;
+    }
+    .banner .banner_cap h1{
+        font-size: 58px;
+        padding-bottom: 28px;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .service h1{
+        padding-bottom: 25px;
+    }
+    .service p{
+        width: 75%;
+    }
+    .service .service_box{
+        height: 278px;
+    }
+    
+    /*** our service sec end ***/
+    
+    /*** meet our clinic sec start ***/
+    
+    .meet_clinic img{
+        height: 470px;
+    }
+    .meet_clinic .blue_box{
+        padding: 100px 40px 0 55px;
+    }
+    /*** meet our clinic sec end ***/
+    
+    /*** best doctors sec start ***/
+    
+    .best_doctors h4{
+        padding-bottom: 40px;
+    }
+    .best_doctors p{
+        padding-bottom: 50px;
+    }
+    
+    /*** best doctors sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog p{
+        width: 75%;
+        padding-bottom: 60px;
+    }
+    .blog .news .date{
+        top: 170px;
+        left: 18px;
+    }
+    .blog .news h5{
+        font-size: 20px;
+        padding: 25px 12px;
+    }
+    .blog .news p{
+        padding: 0 12px 25px 12px;
+    }
+    .blog .news a{
+        padding: 0 12px 30px 12px;
+    }
+    /*** blog sec end ***/
+    
+    /*** make a appontment sec start ***/
+    
+    .appintment .appintment_form{
+        height: 635px;
+    }
+    
+    /*** make a appontment sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer .contact ul li a{
+        width: 93%;
+    }
+    
+    /*** footer sec start ***/
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 959px){
+    
+    /*** top header sec start ***/
+    
+    .header{
+        padding-top: 35px;
+    }
+    
+    /*** top header sec end ***/
+    
+    
+    /*** banner sec start ***/
+    
+    .banner .banner_cap{
+        padding-top: 0px;
+    }
+    .banner .smile{
+        margin-right: 40px;
+    }
+    .banner .banner_pic{
+        height: 382px;
+    }
+    .banner .banner_cap h1{
+        font-size: 45px;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap h4{
+        font-size: 33px;
+    }
+    /*** banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .service{
+        padding-top: 70px;
+    }
+    .service h1{
+        padding-bottom: 25px;
+    }
+    .service p{
+        width: 78%;
+    }
+    .service .service_box{
+        height: 306px;
+    }
+    .service .service_box p{
+        padding: 10px 15px 30px;
+    }
+    
+    /*** our service sec end ***/
+    
+    /*** meet our clinic sec start ***/
+    
+    .meet_clinic{
+        padding-top: 70px;
+    }
+    .meet_clinic img{
+        height: 435px;
+    }
+    .meet_clinic .blue_box{
+        padding: 60px 35px 0 35px
+    }
+    .meet_clinic h4{
+        font-size: 40px;
+        padding-bottom: 25px;
+    }
+    /*** meet our clinic sec end ***/
+    
+    /*** best doctors sec start ***/
+    
+    .best_doctors{
+        padding-top: 70px;
+    }
+    .best_doctors h4{
+        padding-bottom: 30px;
+    }
+    .best_doctors p{
+        padding-bottom: 35px;
+        width: 75%;
+    }
+    
+    /*** best doctors sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 70px;
+    }
+    .blog p{
+        width: 82%;
+        padding-bottom: 40px;
+    }
+    .blog .news .date{
+        top: 125px;
+        left: 18px;
+    }
+    .blog .news h5{
+        font-size: 20px;
+        padding: 25px 12px;
+    }
+    .blog .news p{
+        padding: 0 12px 25px 12px;
+    }
+    .blog .news a{
+        padding: 0 12px 30px 12px;
+    }
+    /*** blog sec end ***/
+    
+    /*** make a appontment sec start ***/
+    
+    .appintment .appintment_form{
+        height: 635px;
+    }
+    
+    /*** make a appontment sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer h5{
+        font-size: 26px;
+    }
+    footer .contact ul li a{
+        width: 91%;
+    }
+    footer ul li a{
+        font-size: 12px;
+    }
+    
+    /*** footer sec start ***/
+    
+}
+
+
+@media only screen and (min-width:641px) and (max-width: 768px){
+    
+    
+    /*** top header sec start ***/
+    
+    .header{
+        padding-top: 35px;
+    }
+    
+    /*** top header sec end ***/
+    
+    
+    /*** banner sec start ***/
+    
+    .banner{
+        padding-top: 40px;
+    }
+    .banner .banner_cap{
+        padding-top: 0px;
+    }
+    .banner .smile{
+        margin-right: 0px;
+        max-width: 100%;
+    }
+    .banner .banner_pic{
+        height: 464px;
+        background-size: auto;
+    }
+    .banner .banner_cap h1{
+        font-size: 45px;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap h4{
+        font-size: 33px;
+    }
+    /*** banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .service{
+        padding-top: 55px;
+    }
+    .service h1{
+        padding-bottom: 25px;
+    }
+    .service p{
+        width: 92%;
+        padding-bottom: 25px;
+    }
+    .service .service_box .service_round{
+        left: 40%;
+    }
+    .service .service_box {
+	height: 222px;
+	margin-bottom: 20px;
+    }
+    .service .service_box p{
+        padding: 10px 15px 30px;
+        left: 9%;
+        width: 80%;
+    }
+    
+    /*** our service sec end ***/
+    
+    /*** meet our clinic sec start ***/
+    
+    .meet_clinic{
+        padding-top: 55px;
+    }
+    .no_padding{
+        padding: 0px !important;
+    }
+    .meet_clinic img{
+        height: 435px;
+    }
+    .meet_clinic .blue_box{
+        padding: 60px 35px 30px 35px
+    }
+    .meet_clinic h4{
+        font-size: 40px;
+        padding-bottom: 25px;
+    }
+    /*** meet our clinic sec end ***/
+    
+    /*** best doctors sec start ***/
+    
+    .best_doctors{
+        padding-top: 55px;
+    }
+    .best_doctors .doctors img {
+	width: auto;
+	height: auto;
+	text-align: center;
+	margin: 0px auto;
+	display: block;
+}
+    .best_doctors h4{
+        padding-bottom: 30px;
+    }
+    .best_doctors p{
+        padding-bottom: 35px;
+        width: 85%;
+    }
+    .best_doctors .doctors ul{
+        margin-left: 43%;
+    }
+    
+    /*** best doctors sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 55px;
+    }
+    .blog p{
+        width: 87%;
+        padding-bottom: 40px;
+    }
+    .blog .news .date{
+        top: 388px;
+        left: 18px;
+    }
+    .blog .news h5{
+        font-size: 20px;
+        padding: 25px 12px;
+    }
+    .blog .news p{
+        padding: 0 12px 25px 12px;
+    }
+    .blog .news a{
+        padding: 0 12px 30px 12px;
+    }
+    /*** blog sec end ***/
+    
+    /*** make a appontment sec start ***/
+    
+    .appintment{
+        margin-top: 55px;
+    }
+    .appintment .appintment_form{
+        height: 635px;
+        float: none;
+        margin: 0px auto;
+    }
+    
+    /*** make a appontment sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer{
+        padding-top: 55px;
+    }
+    footer p{
+        padding-bottom: 20px;
+    }
+    footer h5{
+        font-size: 26px;
+        padding-bottom: 20px;
+    }
+    footer ul li{
+        width: 33%;
+    }
+    footer .contact ul li a{
+        width: 91%;
+    }
+    footer ul li a{
+        font-size: 14px;
+    }
+    
+    /*** footer sec start ***/
+    
+}
+
+
+@media only screen and (min-width: 481px) and (max-width: 640px){
+    
+    /*** top header sec start ***/
+    
+    .header{
+        padding-top: 35px;
+    }
+    .mean-container .mean-bar{
+        top: -54px;
+    }
+    
+    /*** top header sec end ***/
+    
+    
+    /*** banner sec start ***/
+    
+    .banner{
+        padding-top: 20px;
+    }
+    .banner .banner_cap{
+        padding-top: 0px;
+    }
+    .banner .banner_cap p{
+        font-size: 16px;
+    }
+    .banner .smile{
+        margin-right: 0px;
+        max-width: 100%;
+    }
+    .banner .banner_pic{
+        height: 464px;
+        background-size: auto;
+    }
+    .banner .banner_cap h1{
+        font-size: 45px;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap h4{
+        font-size: 33px;
+    }
+    /*** banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .service{
+        padding-top: 40px;
+    }
+    .service h1{
+        padding-bottom: 25px;
+    }
+    .service p{
+        width: 98%;
+        padding-bottom: 20px;
+    }
+    .service .service_box .service_round{
+        left: 40%;
+    }
+    .service .service_box {
+	height: 231px;
+	margin-bottom: 20px;
+    }
+    .service .service_box:nth-child(3n){
+        margin-bottom: 0px;
+    }
+    .service .service_box p{
+        padding: 10px 15px;
+        left: 9%;
+        width: 80%;
+    }
+    
+    /*** our service sec end ***/
+    
+    /*** meet our clinic sec start ***/
+    
+    .meet_clinic{
+        padding-top: 40px;
+    }
+    .no_padding{
+        padding: 0px !important;
+    }
+    .meet_clinic img{
+        height: 435px;
+    }
+    .meet_clinic .blue_box{
+        padding: 60px 35px 30px 35px
+    }
+    .meet_clinic h4{
+        font-size: 40px;
+        padding-bottom: 25px;
+    }
+    /*** meet our clinic sec end ***/
+    
+    /*** best doctors sec start ***/
+    
+    .best_doctors{
+        padding-top: 40px;
+    }
+    .best_doctors .mobile_view_doctor{
+        margin-bottom: 15px;
+    }
+    .best_doctors .mobile_view_doctor:last-child{
+        margin-bottom: 0px;
+    }
+    .best_doctors .doctors img {
+	width: auto;
+	height: auto;
+	text-align: center;
+	margin: 0px auto;
+	display: block;
+}
+    .best_doctors h4{
+        padding-bottom: 20px;
+    }
+    .best_doctors p{
+        padding-bottom: 35px;
+        width: 100%;
+    }
+    .best_doctors .doctors ul{
+        margin-left: 43%;
+    }
+    
+    /*** best doctors sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 40px;
+    }
+    .blog p{
+        width: 98%;
+        padding-bottom: 20px;
+    }
+    .blog .news .date{
+        top: 276px;
+        left: 18px;
+    }
+    .blog .news h5{
+        font-size: 20px;
+        padding: 25px 12px;
+    }
+    .blog .news p{
+        padding: 0 12px 25px 12px;
+    }
+    .blog .news a{
+        padding: 0 12px 30px 12px;
+    }
+    /*** blog sec end ***/
+    
+    /*** make a appontment sec start ***/
+    
+    .appintment{
+        height: 585px;
+    }
+    .appintment{
+        margin-top: 55px;
+    }
+    .appintment .appintment_form{
+        height: 585px;
+        float: none;
+        margin: 0px auto;
+        width: 100%;
+    }
+    
+    /*** make a appontment sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer{
+        padding-top: 40px;
+    }
+    footer p{
+        padding-bottom: 20px;
+    }
+    footer h5{
+        font-size: 26px;
+        padding-bottom: 20px;
+    }
+    footer ul li{
+        width: 33%;
+    }
+    footer .contact ul li a{
+        width: 91%;
+    }
+    footer ul li a{
+        font-size: 14px;
+    }
+    
+    /*** footer sec start ***/
+    
+}
+
+
+@media only screen and (min-width: 321px) and (max-width:480px){
+    
+    
+    /*** top header sec start ***/
+    
+    .header{
+        padding-top: 15px;
+    }
+    .mean-container .mean-bar{
+        top: -54px;
+    }
+    
+    /*** top header sec end ***/
+    
+    
+    /*** banner sec start ***/
+    
+    .banner{
+        padding-top: 15px;
+    }
+    .banner .banner_cap{
+        padding-top: 0px;
+    }
+    .banner .banner_cap p{
+        font-size: 14px;
+    }
+    .banner .smile{
+        margin-right: 0px;
+        max-width: 100%;
+    }
+    .banner .banner_pic {
+        height: 300px;
+        background-size: 100%;
+        margin-top: 20px;
+    }
+    .banner .banner_cap h1{
+        font-size: 40px;
+        padding-bottom: 20px;
+    }
+    .banner .banner_cap h4{
+        font-size: 20px;
+    }
+    /*** banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .service{
+        padding-top: 25px;
+    }
+    .service h1{
+        padding-bottom: 15px;
+        font-size: 32px;
+    }
+    .service p{
+        width: 98%;
+        padding-bottom: 15px;
+    }
+    .service .service_box .service_round{
+        left: 34%;
+    }
+    .service .service_box {
+	height: 287px;
+	margin-bottom: 20px;
+    }
+    .service .service_box:nth-child(3n){
+        margin-bottom: 0px;
+    }
+    .service .service_box p{
+        padding: 10px 15px;
+        left: 9%;
+        width: 80%;
+    }
+    
+    /*** our service sec end ***/
+    
+    /*** meet our clinic sec start ***/
+    
+    .meet_clinic{
+        padding-top: 25px;
+    }
+    .no_padding{
+        padding: 0px !important;
+    }
+    .meet_clinic img{
+        height: 335px;
+    }
+    .meet_clinic .blue_box{
+        padding: 30px 25px;
+    }
+    .meet_clinic h4{
+        font-size: 32px;
+        padding-bottom: 15px;
+    }
+    /*** meet our clinic sec end ***/
+    
+    /*** best doctors sec start ***/
+    
+    .best_doctors{
+        padding-top: 15px;
+    }
+    .best_doctors .mobile_view_doctor{
+        margin-bottom: 15px;
+    }
+    .best_doctors .doctors img {
+	width: auto;
+	height: auto;
+	text-align: center;
+	margin: 0px auto;
+	display: block;
+}
+    .best_doctors h4{
+        padding-bottom: 15px;
+        font-size: 32px;
+    }
+    .best_doctors p{
+        padding-bottom: 15px;
+        width: 100%;
+    }
+    .best_doctors .doctors ul{
+        margin-left: 43%;
+    }
+    
+    /*** best doctors sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 15px;
+    }
+    .blog h4{
+        font-size: 32px;
+        padding-bottom: 15px;
+    }
+    .blog p{
+        width: 100%;
+        padding-bottom: 15px;
+    }
+    .blog .news .date{
+        top: 167px;
+        left: 18px;
+    }
+    .blog .news h5{
+        font-size: 20px;
+        padding: 25px 12px 15px;
+    }
+    .blog .news p{
+        padding: 0 12px 15px 12px;
+    }
+    .blog .news a{
+        padding: 0 12px 15px 12px;
+    }
+    /*** blog sec end ***/
+    
+    /*** make a appontment sec start ***/
+    
+    .appintment{
+        height: 585px;
+    }
+    .appintment{
+        margin-top: 15px;
+    }
+    .appintment .appintment_form h5{
+        font-size: 27px;
+    }
+    .appintment .appintment_form{
+        height: 585px;
+        float: none;
+        margin: 0px auto;
+        width: 100%;
+    }
+    
+    /*** make a appontment sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer{
+        padding-top: 15px;
+    }
+    footer p{
+        padding-bottom: 20px;
+    }
+    footer h5{
+        font-size: 26px;
+        padding-bottom: 20px;
+    }
+    footer ul li{
+        width: 50%;
+    }
+    footer .contact ul li a{
+        width: 91%;
+    }
+    footer ul li a{
+        font-size: 14px;
+    }
+    
+    /*** footer sec start ***/
+    
+}
+
+
+@media only screen and (max-width: 320px){
+    
+    /*** top header sec start ***/
+    
+    .header{
+        padding-top: 15px;
+    }
+    .mean-container .mean-bar{
+        top: -54px;
+    }
+    
+    /*** top header sec end ***/
+    
+    
+    /*** banner sec start ***/
+    
+    .banner{
+        padding-top: 15px;
+    }
+    .banner .banner_cap{
+        padding-top: 0px;
+    }
+    .banner .banner_cap p{
+        font-size: 14px;
+    }
+    .banner .smile{
+        margin-right: 0px;
+        max-width: 100%;
+    }
+    .banner .banner_pic {
+        height: 300px;
+        background-size: 100%;
+        margin-top: 20px;
+    }
+    .banner .banner_cap h1{
+        font-size: 40px;
+        padding-bottom: 20px;
+    }
+    .banner .banner_cap h4{
+        font-size: 20px;
+    }
+    /*** banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .service{
+        padding-top: 25px;
+    }
+    .service h1{
+        padding-bottom: 15px;
+        font-size: 32px;
+    }
+    .service p{
+        width: 98%;
+        padding-bottom: 15px;
+    }
+    .service .service_box .service_round{
+        left: 34%;
+    }
+    .service .service_box {
+	height: 287px;
+	margin-bottom: 20px;
+    }
+    .service .service_box:nth-child(3n){
+        margin-bottom: 0px;
+    }
+    .service .service_box p{
+        padding: 10px 15px;
+        left: 9%;
+        width: 80%;
+    }
+    
+    /*** our service sec end ***/
+    
+    /*** meet our clinic sec start ***/
+    
+    .meet_clinic{
+        padding-top: 25px;
+    }
+    .no_padding{
+        padding: 0px !important;
+    }
+    .meet_clinic img{
+        height: 335px;
+    }
+    .meet_clinic .blue_box{
+        padding: 30px 25px;
+    }
+    .meet_clinic h4{
+        font-size: 32px;
+        padding-bottom: 15px;
+    }
+    /*** meet our clinic sec end ***/
+    
+    /*** best doctors sec start ***/
+    
+    .best_doctors{
+        padding-top: 15px;
+    }
+    .best_doctors .mobile_view_doctor{
+        margin-bottom: 15px;
+    }
+    .best_doctors .doctors img {
+	width: auto;
+	height: auto;
+	text-align: center;
+	margin: 0px auto;
+	display: block;
+}
+    .best_doctors h4{
+        padding-bottom: 15px;
+        font-size: 32px;
+    }
+    .best_doctors p{
+        padding-bottom: 15px;
+        width: 100%;
+    }
+    .best_doctors .doctors ul{
+        margin-left: 43%;
+    }
+    
+    /*** best doctors sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 15px;
+    }
+    .blog h4{
+        font-size: 32px;
+        padding-bottom: 15px;
+    }
+    .blog p{
+        width: 100%;
+        padding-bottom: 15px;
+    }
+    .blog .news .date{
+        top: 167px;
+        left: 18px;
+    }
+    .blog .news h5{
+        font-size: 20px;
+        padding: 25px 12px 15px;
+    }
+    .blog .news p{
+        padding: 0 12px 15px 12px;
+    }
+    .blog .news a{
+        padding: 0 12px 15px 12px;
+    }
+    /*** blog sec end ***/
+    
+    /*** make a appontment sec start ***/
+    
+    .appintment{
+        height: 615px;
+        margin-top: 15px
+    }
+    .appintment .appintment_form h5{
+        font-size: 27px;
+    }
+    .appintment .appintment_form{
+        height: 615px;
+        float: none;
+        margin: 0px auto;
+        width: 100%;
+    }
+    
+    /*** make a appontment sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer{
+        padding-top: 15px;
+    }
+    footer p{
+        padding-bottom: 20px;
+    }
+    footer h5{
+        font-size: 26px;
+        padding-bottom: 20px;
+    }
+    footer ul li{
+        width: 50%;
+    }
+    footer .contact ul li a{
+        width: 91%;
+    }
+    footer ul li a{
+        font-size: 14px;
+    }
+    
+    /*** footer sec start ***/
+    
+}
