@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+img{
+    outline: none;
+}
+ul{
+
+}
+ul li{
+    list-style: none !important;
+}
+ul li a{
+    text-decoration: none !important;
+}
+form{
+    outline: none !important;
+}
+.clearfix{
+    clear: both;
+}
+.container{
+    width: 100%;
+    max-width: 1170px !important;
+    margin: 0px auto;
+}
+
+
+/*** top banner sec start ***/
+
+
+
+/*** top banner sec end ***/
