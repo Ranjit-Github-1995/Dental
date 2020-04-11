@@ -1,0 +1,752 @@
+@media only screen and (min-width:2048px){
+    
+    
+}
+
+@media only screen and (min-width:1600px) and (max-width:2047px){
+    
+    
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px){
+    
+    
+}
+
+@media only screen and (min-width:1151px) and (max-width:1245px){
+    
+    
+}
+
+@media only screen and (min-width:960px) and (max-width:1169px){
+ 
+    .logo_sec{
+        margin-top: 25px;
+    }
+    #header{
+        margin-right: 25px;
+    }
+    .we_offer .offer_det h4{
+        font-size: 16px;
+    }
+    .we_offer .offer_det h4::before{
+        top: 31px;
+    }
+    .who_we_are .who_pic img {
+	margin: 0px -140px;
+    }
+    .get_in_touch h4{
+        font-size: 32px;
+    }
+    
+}
+
+@media only screen and (min-width:769px) and (max-width:959px){
+    
+    .top_header .top_header_bg{
+        height: 31px;
+    }
+    .top_header p{
+        padding: 5px;
+    }
+    .top_header p.call{
+        padding: 4px;
+        margin-left: 1%;
+    }
+    .top_header .top_social{
+        margin-right: 30px;
+    }
+    .top_header .top_social ul li{
+        padding: 4px 10px;
+    }
+       .logo_sec{
+        margin-top: 20px;
+    }
+    #header{
+        margin-right: 0px;
+        margin-top: 10px;
+    }
+    .mean-container .mean-nav ul button{
+        width: 100%;
+        margin-bottom: 0px;
+        text-align: left;
+    }
+    .slider{
+        margin-top: 5px;
+    }
+    .slick-dots{
+        bottom: 100px;
+    }
+    .slider_inner .slider_cap{
+        padding-top: 40px;
+    }
+    .slider_inner{
+        background-size: 125%;
+        height: 425px;
+    }
+    .slider_inner .slider_cap h1{
+        padding-bottom: 20px;
+        font-size: 50px;
+        margin-bottom: 0px;
+    }
+    .slider_inner .slider_cap p{
+        padding-bottom: 20px;
+        width: 55%;
+    }
+    .we_offer{
+        padding-top: 40px;
+    }
+    .we_offer .offer_det p{
+        padding: 20px 5px;
+    }
+    .we_offer .offer_det h4{
+        font-size: 16px;
+    }
+    .we_offer .offer_det h4::before{
+        top: 31px;
+    }
+    .we_offer_mobile{
+        margin-bottom: 15px;
+    }
+    .we_offer button{
+        margin: 40px auto;
+    }
+    .testmonial{
+        padding-top: 40px;
+    }
+    .who_we_are{
+        padding-top: 70px;
+    }
+    .who_we_are h4{
+        padding-bottom: 20px;
+    }
+    .who_we_are p{
+        padding-bottom: 20px;
+    }
+    .who_we_are ul li:last-child{
+        margin-bottom: 20px;
+    }
+    .who_we_are .who_pic img {
+	margin: 0px -200px;
+    }
+    .brand{
+        margin-top: 60px;
+        padding: 55px 0;
+    }
+    .brand h4{
+        font-size: 30px;
+        padding-bottom: 40px;
+    }
+    .brand img{
+        width: 100%;
+    }
+    .get_in_touch h4{
+        padding: 40.3px 0;
+    }
+    .get_in_touch h4{
+        font-size: 32px;
+    } 
+    footer{
+        margin-top: 40px;
+    }
+    .copyright{
+        margin-top: 0px;
+        }
+}
+
+@media only screen and (min-width: 641px) and (max-width: 768px){
+    
+    .top_header{
+        
+    }
+    .top_header .top_header_bg{
+        height: 65px;
+    }
+    .top_header .dip_gry{
+        height: 32px;
+    }
+    .top_header p{
+        padding: 5px;
+    }
+    .top_header p.call{
+        padding: 4px;
+        margin-left: 0%;
+        color: #111;
+    }
+    .top_header .top_social{
+        margin-right: 30px;
+    }
+    .top_header .top_social ul li{
+        padding: 4px 10px;
+    }
+    .top_header .top_social ul li i{
+        color: #111;
+    }
+       .logo_sec{
+        margin-top: 20px;
+    }
+    #header{
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+    .mean-container .mean-nav ul button{
+        width: 100%;
+        margin-bottom: 0px;
+        text-align: left;
+    }
+    .slider{
+        margin-top: 5px;
+    }
+    .slick-dots{
+        bottom: 50px;
+    }
+    .slider_inner .slider_cap{
+        padding-top: 58px;
+    }
+    .slider_inner{
+        background-size: 125%;
+        height: 375px;
+    }
+    .slider_inner .slider_cap h1{
+        padding-bottom: 15px;
+        font-size: 42px;
+        margin-bottom: 0px;
+    }
+    .slider_inner .slider_cap p{
+        padding-bottom: 15px;
+        width: 57%;
+        font-size: 18px;
+    }
+    .slider_inner .slider_cap button{
+        margin: 5px 0;
+    }
+    .we_offer h1{
+        font-size: 35px;
+        padding-bottom: 30px;
+    }
+    .we_offer{
+        padding-top: 30px;
+    }
+    .we_offer .offer_det p{
+        padding: 20px 5px;
+    }
+    .we_offer .offer_det h4{
+        font-size: 16px;
+    }
+    .we_offer .offer_det h4::before{
+        top: 31px;
+    }
+    .we_offer_mobile{
+        margin-bottom: 15px;
+    }
+    .we_offer button{
+        margin: 30px auto;
+    }
+    .testmonial{
+        padding-top: 30px;
+    }
+    .testmonial img{
+        padding-bottom: 30px;
+    }
+    .testmonial p{
+        font-size: 18px;
+        width: 100%;
+    }
+    .who_we_are{
+        padding-top: 30px;
+    }
+    .who_we_are h4{
+        padding-bottom: 20px;
+        font-size: 35px;
+    }
+    .who_we_are p{
+        padding-bottom: 20px;
+    }
+    .who_we_are ul li:last-child{
+        margin-bottom: 20px;
+    }
+    .who_we_are .who_pic img {
+	margin: 0px;
+    }
+    .brand{
+        margin-top: 30px;
+        padding: 55px 0;
+    }
+    .brand h4{
+        font-size: 25px;
+        padding-bottom: 30px;
+    }
+    .brand img{
+        width: auto;
+    }
+    .get_in_touch h4{
+        padding: 40.3px 0;
+    }
+    .get_in_touch h4{
+        font-size: 30px;
+    } 
+    footer{
+        margin-top: 30px;
+    }
+    .copyright{
+        margin-top: 0px;
+        }
+    
+    
+}
+
+
+@media only screen and (min-width: 481px) and (max-width: 640px){
+    
+    .top_header{
+        
+    }
+    .top_header .top_header_bg{
+        height: 90px;
+    }
+    .top_header .dip_gry{
+        height: 32px;
+    }
+    .top_header p{
+        padding: 5px;
+    }
+    .top_header p.call{
+        padding: 4px;
+        margin-left: 0%;
+        color: #111;
+        float: none;
+    }
+    .top_header .top_social{
+        margin-right: 0px;
+        float: none;
+        margin: 0px auto;
+        display: table;
+    }
+    .top_header .top_social ul li{
+        padding: 4px 10px;
+    }
+    .top_header .top_social ul li i{
+        color: #111;
+    }
+       .logo_sec{
+        margin-top: 10px;
+    }
+    #header{
+        margin-right: 0px;
+        margin-top: -55px;
+    }
+    .mean-container .mean-nav ul button{
+        width: 100%;
+        margin-bottom: 0px;
+        text-align: left;
+    }
+    .slider{
+        margin-top: 5px;
+    }
+    .slick-dots{
+        bottom: 16px;
+    }
+    .slider_inner .slider_cap{
+        padding-top: 25px;
+    }
+    .slider_inner{
+        background-size: 125%;
+        height: 269px;
+    }
+    .slider_inner .slider_cap h1{
+        padding-bottom: 5px;
+        font-size: 38px;
+        margin-bottom: 0px;
+    }
+    .slider_inner .slider_cap p{
+        padding-bottom: 5px;
+        width: 60%;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .slider_inner .slider_cap button{
+        margin: 7px 0;
+        padding: 13px 7.5px;
+    }
+    .we_offer{
+        padding-top: 20px;
+    }
+    .we_offer h1{
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .we_offer .offer_det p{
+        padding: 20px 5px;
+    }
+    .we_offer .offer_det h4{
+        font-size: 16px;
+    }
+    .we_offer .offer_det h4::before{
+        top: 31px;
+    }
+    .we_offer_mobile{
+        margin-bottom: 15px;
+    }
+    .we_offer button{
+        margin: 30px auto;
+    }
+    .testmonial{
+        padding-top: 20px;
+    }
+    .testmonial img{
+        padding-bottom: 30px;
+    }
+    .testmonial p{
+        font-size: 18px;
+        width: 100%;
+    }
+    .who_we_are{
+        padding-top: 20px;
+    }
+    .who_we_are h4{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .who_we_are p{
+        padding-bottom: 20px;
+    }
+    .who_we_are ul li:last-child{
+        margin-bottom: 20px;
+    }
+    .who_we_are .who_pic img {
+	margin: 0px;
+    }
+    .brand{
+        margin-top: 30px;
+        padding: 55px 0;
+    }
+    .brand h4{
+        font-size: 25px;
+        padding-bottom: 30px;
+    }
+    .brand img{
+        width: auto;
+    }
+    .get_in_touch h4{
+        padding: 20px 0;
+    }
+    .get_in_touch h4{
+        font-size: 28px;
+    } 
+    footer{
+        margin-top: 30px;
+    }
+    .copyright{
+        margin-top: 0px;
+        padding: 25px 0;
+        }
+    
+    
+}
+
+@media only screen and (min-width: 321px) and (max-width: 480px){
+    
+       .top_header{
+        
+    }
+    .top_header .top_header_bg{
+        height: 125px;
+    }
+    .top_header .dip_gry{
+        height: 32px;
+    }
+    .top_header p{
+        padding: 5px;
+    }
+    .top_header p.call{
+        padding: 4px;
+        margin-left: 0%;
+        color: #111;
+        float: none;
+    }
+    .top_header .top_social{
+        margin-right: 0px;
+        float: none;
+        margin: 0px auto;
+        display: table;
+    }
+    .top_header .top_social ul li{
+        padding: 4px 10px;
+    }
+    .top_header .top_social ul li i{
+        color: #111;
+    }
+       .logo_sec{
+        margin-top: 10px;
+    }
+    #header{
+        margin-right: 0px;
+        margin-top: -55px;
+    }
+    .mean-container .mean-nav ul button{
+        width: 100%;
+        margin-bottom: 0px;
+        text-align: left;
+    }
+    .slider{
+        margin-top: 5px;
+    }
+    .slick-dots{
+        bottom: 16px;
+    }
+    .slider_inner .slider_cap{
+        padding-top: 25px;
+    }
+    .slider_inner{
+        background-size: 125%;
+        height: 180px;
+    }
+    .slider_inner .slider_cap h1{
+        padding-bottom: 5px;
+        font-size: 24px;
+        margin-bottom: 0px;
+    }
+    .slider_inner .slider_cap p{
+        padding-bottom: 5px;
+        width: 60%;
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .slider_inner .slider_cap button{
+        margin: 7px 0;
+        padding: 13px 7.5px;
+        display: none;
+    }
+    .we_offer{
+        padding-top: 20px;
+    }
+    .we_offer h1{
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .we_offer .offer_det p{
+        padding: 20px 5px;
+    }
+    .we_offer .offer_det h4{
+        font-size: 16px;
+    }
+    .we_offer .offer_det h4::before{
+        top: 31px;
+    }
+    .we_offer_mobile{
+        margin-bottom: 15px;
+    }
+    .we_offer button{
+        margin: 30px auto;
+    }
+    .testmonial{
+        padding-top: 20px;
+    }
+    .testmonial img{
+        padding-bottom: 30px;
+    }
+    .testmonial p{
+        font-size: 16px;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .who_we_are{
+        padding-top: 20px;
+    }
+    .who_we_are h4{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .who_we_are p{
+        padding-bottom: 20px;
+    }
+    .who_we_are ul li:last-child{
+        margin-bottom: 20px;
+    }
+    .who_we_are .who_pic img {
+	margin: 0px -195px;
+    }
+    .brand{
+        margin-top: 30px;
+        padding: 55px 0;
+    }
+    .brand h4{
+        font-size: 18px;
+        padding-bottom: 30px;
+    }
+    .brand img{
+        width: auto;
+    }
+    .get_in_touch h4{
+        padding: 20px 0;
+    }
+    .get_in_touch h4{
+        font-size: 19px;
+    } 
+    footer{
+        margin-top: 30px;
+    }
+    footer h5{
+        font-size: 21px;
+    }
+    .copyright{
+        margin-top: 0px;
+        padding: 25px 0;
+        }
+    
+    
+}
+
+
+@media only screen and (max-width: 320px){
+    
+          .top_header{
+        
+    }
+    .top_header .top_header_bg{
+        height: 125px;
+    }
+    .top_header .dip_gry{
+        height: 32px;
+    }
+    .top_header p{
+        padding: 5px;
+    }
+    .top_header p.call{
+        padding: 4px;
+        margin-left: 0%;
+        color: #111;
+        float: none;
+    }
+    .top_header .top_social{
+        margin-right: 0px;
+        float: none;
+        margin: 0px auto;
+        display: table;
+    }
+    .top_header .top_social ul li{
+        padding: 4px 10px;
+    }
+    .top_header .top_social ul li i{
+        color: #111;
+    }
+       .logo_sec{
+        margin-top: 10px;
+    }
+    #header{
+        margin-right: 0px;
+        margin-top: -55px;
+    }
+    .mean-container .mean-nav ul button{
+        width: 100%;
+        margin-bottom: 0px;
+        text-align: left;
+    }
+    .slider{
+        margin-top: 5px;
+    }
+    .slick-dots{
+        bottom: 16px;
+    }
+    .slider_inner .slider_cap{
+        padding-top: 25px;
+    }
+    .slider_inner{
+        background-size: 125%;
+        height: 180px;
+    }
+    .slider_inner .slider_cap h1{
+        padding-bottom: 5px;
+        font-size: 24px;
+        margin-bottom: 0px;
+    }
+    .slider_inner .slider_cap p{
+        padding-bottom: 5px;
+        width: 60%;
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .slider_inner .slider_cap button{
+        margin: 7px 0;
+        padding: 13px 7.5px;
+        display: none;
+    }
+    .we_offer{
+        padding-top: 20px;
+    }
+    .we_offer h1{
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .we_offer .offer_det p{
+        padding: 20px 5px;
+    }
+    .we_offer .offer_det h4{
+        font-size: 16px;
+    }
+    .we_offer .offer_det h4::before{
+        top: 31px;
+    }
+    .we_offer_mobile{
+        margin-bottom: 15px;
+    }
+    .we_offer button{
+        margin: 30px auto;
+    }
+    .testmonial{
+        padding-top: 20px;
+    }
+    .testmonial img{
+        padding-bottom: 30px;
+    }
+    .testmonial p{
+        font-size: 16px;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .who_we_are{
+        padding-top: 20px;
+    }
+    .who_we_are h4{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .who_we_are p{
+        padding-bottom: 20px;
+    }
+    .who_we_are ul li:last-child{
+        margin-bottom: 20px;
+    }
+    .who_we_are .who_pic img {
+	margin: 0px -195px;
+    }
+    .brand{
+        margin-top: 30px;
+        padding: 55px 0;
+    }
+    .brand h4{
+        font-size: 18px;
+        padding-bottom: 30px;
+    }
+    .brand img{
+        width: auto;
+    }
+    .get_in_touch h4{
+        padding: 20px 0;
+    }
+    .get_in_touch h4{
+        font-size: 19px;
+    } 
+    footer{
+        margin-top: 30px;
+    }
+    footer h5{
+        font-size: 21px;
+    }
+    .copyright{
+        margin-top: 0px;
+        padding: 25px 0;
+        }
+    
+    
+}
