@@ -167,16 +167,16 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-content {
-    background: #fff;
-    display: inline-block;
-    margin: 0;
-    max-width: 100%;
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
-    padding: 44px;
-    position: relative;
-    text-align: left;
-    vertical-align: middle;
+	background: #fff;
+	display: inline-block;
+	margin: 0;
+	max-width: 100%;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+	padding: 30px 44px;
+	position: relative;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .fancybox-slide--image .fancybox-content {
@@ -212,7 +212,6 @@ body.compensate-for-scrollbar {
 .fancybox-can-swipe .fancybox-content,
 .fancybox-can-pan .fancybox-content {
     cursor: -webkit-grab;
-    cursor: grab;
 }
 
 .fancybox-is-grabbing .fancybox-content {

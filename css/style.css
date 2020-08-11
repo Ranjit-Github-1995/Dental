@@ -241,6 +241,45 @@ a{
 .meet_clinic .pop_from{
     display: bloc;
 }
+.book_popup ul li{
+    margin-bottom: 10px;
+}
+.book_popup ul li:last-child{
+    margin-bottom: 0px;
+}
+.fa-user::before{
+    padding-right: 10px;
+}
+.fa-phone::before{
+    padding-right: 10px;
+}
+.fa-envelope::before{
+    padding-right: 5px;
+}
+.book_popup textarea {
+	margin-left: 26px;
+	width: 88.6%;
+}
+.book_popup input[type="text"]{
+    padding: 10px 0 10px 10px;
+    text-transform: capitalize
+}
+.book_popup input[type="email"]{
+    padding: 10px 0 10px 10px;
+    text-transform: capitalize;
+}
+.book_popup textarea{
+    padding: 10px 0 10px 10px;
+    text-transform: capitalize;
+}
+.book_popup ul li input[type="submit"] {
+	background-color: #0884c5;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 10px 25px;
+	border: 0px;
+	margin-left: 26px;
+}
 
 /*** meet_clinic sec end ***/
 
@@ -1656,32 +1695,32 @@ footer {
 	Blog Page css
 ***************************************/
 .panelBox h3 {
-  color: #363636;
-  font-family: Varela Round;
-  font-size: 24px;
-  font-weight: 400;
-  padding: 0 0 8px;
-	}
+    color: #363636;
+    font-family: Varela Round;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 0 0 8px;
+}
 .blogSidePanel {
-  float: right;
-  width: 20%;
-	}
+    float: right;
+    width: 20%;
+}
 .blogPg_sec .latesBloglists {
   float: left;
   width: 76%;
-	}
+}
 .latesBloglists li {
     margin: 0 2.6% 2.6% 0;
-	}
+}
 .panelBox li a {
-  color: #797979;
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 29px;
-	}
+    color: #797979;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 29px;
+}
 .search input[type="text"] {
-  background: #fff;
+    background: #fff;
 	padding: 0 20px;
 	color: #666;
 	font-size: 15px;
@@ -1711,9 +1750,9 @@ footer {
 	margin: 9px 0;
 	}	
 .panelBox {
-  padding: 0 0 40px 0;
-  display: block;
-		}
+    padding: 0 0 40px 0;
+    display: block;
+}
 
 
 
@@ -1789,8 +1828,8 @@ footer {
 	text-decoration:underline;
 	}
 .page-numbers {
-  clear: both;
-  display: table;
+    clear: both;
+    display: table;
 }
 .page-numbers a {
     margin: 0 5px 3px 0;
@@ -1808,16 +1847,16 @@ footer {
 
 
 .page-numbers.current, .page-numbers:hover a {
-   background: #e4601b;
-color: #fff;
-border: none;
-display: inline-block;
-height: 20px;
-line-height: 21px;
-width: 8px;
-font-size: 16px;
-margin: 1px 3px;
-padding: 0px 15px;
+    background: #e4601b;
+    color: #fff;
+    border: none;
+    display: inline-block;
+    height: 20px;
+    line-height: 21px;
+    width: 8px;
+    font-size: 16px;
+    margin: 1px 3px;
+    padding: 0px 15px;
 }
 
 
@@ -1825,14 +1864,16 @@ padding: 0px 15px;
     display: inline-block;
     width: 8px;
 	font-size: 14px;
-  border: 1px solid #999;
-  box-sizing: border-box;
-  margin: 1px 3px;
-padding: 0px 15px;
+    border: 1px solid #999;
+    box-sizing: border-box;
+    margin: 1px 3px;
+    padding: 0px 15px;
 }
 
 
 .screen-reader-text {
     display: none;
 }
+
+
 
