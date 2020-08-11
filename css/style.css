@@ -458,7 +458,7 @@ a{
     float: right;
     width: 560px;
     background-color: rgba(34,111,210,0.5);
-    padding: 50px 40px 55.5px 30px;
+    padding: 50px 40px 63px 30px;
 }
 .appintment .appintment_form p{
     font-size: 22px;
@@ -574,7 +574,7 @@ footer .contact ul li{
 footer .contact ul li a {
 	padding-left: 25px;
 	display: inline-block;
-	width: 95%;
+	width: 93%;
 	margin-top: -4px;
 }
 footer .contact ul li i {
